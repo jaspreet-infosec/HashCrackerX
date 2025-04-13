@@ -1,5 +1,4 @@
 
----
 # 🔐 BruteForce Hash Cracker
 
 A simple Python toolset to simulate brute-force attacks on hashed passwords using multi-threading. Includes functionality to generate MD5 and SHA-256 hashes and crack them using a wordlist.
