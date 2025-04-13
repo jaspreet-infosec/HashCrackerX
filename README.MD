@@ -31,12 +31,10 @@ A simple Python toolset to simulate brute-force attacks on hashed passwords usin
 ```
 
 2. Install the required packages:
-    
     ```bash
     pip install -r requirements.txt
     ```
     
-    > **Note:** This project only uses Python's standard libraries (`hashlib`, `threading`, `queue`), so `requirements.txt` may be empty or used for future dependencies.
     
 3. Make sure you have a wordlist file ready (e.g., `wordlist.txt`).
     
